@@ -55,7 +55,7 @@ This will be a single page, fully responsive website, designed in a mobile first
 ### Wireframes:
 
 #### Mobile
-![Mobile] (https://raw.githubusercontent.com/GaryFinlayson/second-milestone-project/master/assets/wire_frames/mobile%20view.png)
+![Mobile](https://raw.githubusercontent.com/GaryFinlayson/second-milestone-project/master/assets/wire_frames/mobile%20view.png)
 
 #### Desktop
-![Desktop] ((https://raw.githubusercontent.com/GaryFinlayson/second-milestone-project/master/assets/wire_frames/desktop%20view.png))
+![Desktop](https://raw.githubusercontent.com/GaryFinlayson/second-milestone-project/master/assets/wire_frames/desktop%20view.png)
