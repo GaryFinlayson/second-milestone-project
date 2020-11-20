@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Marck+Script&display=swap');
+
+h1 {
+    font-family: 'Marck Script', cursive;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+body {
+    background-image:  url("https://cdn.pixabay.com/photo/2019/02/28/14/00/tibet-4025999_640.jpg");
+    display: block;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+main {
+    padding: 5%;
+}
+
+#map {
+    height: 500px;
+    border: 2px solid steelblue;
+    margin-bottom: 10%;
+    background-color: steelblue;
+}
+
+#table {
+    height: 500px;
+    border: 2px solid steelblue;
+    background-color: whitesmoke;
+}
