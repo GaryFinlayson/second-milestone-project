@@ -1,5 +1,7 @@
 # Second Milestone Project
 
+#### Check out the website by clicking <a target="_blank" href="https://garyfinlayson.github.io/second-milestone-project/">Here!</a>
+
 ### The Idea
 A single page website with google maps and
 a table of different countries and information on each one.
