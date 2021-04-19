@@ -25,8 +25,10 @@ main {
     background-color: steelblue;
 }
 
+/*---------------- Table Styling */
 #table {
     height: 500px;
+    font: 2em sans-serif;
     border: 2px solid steelblue;
     background-color: whitesmoke;
 }
@@ -35,8 +37,4 @@ main {
     background-color: gray;
 }
 
-#table td {
-    text-align: center;
-    padding: 10px;
-}
 
